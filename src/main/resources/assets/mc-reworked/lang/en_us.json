@@ -1,0 +1,25 @@
+{
+  "item.mc-reworked.cloth": "Cloth",
+  "item.mc-reworked.aeonite_upgrade_smithing_template": "Aeonite Upgrade Template",
+  "item.mc-reworked.aeonite_fragment": "Aeonite Fragment",
+  "item.mc-reworked.aeonite_ingot": "Aeonite Ingot",
+  "item.mc-reworked.eternal_remains": "Eternal Remains",
+  "item.mc-reworked.aeonite_helmet": "Aeonite Helmet",
+  "item.mc-reworked.aeonite_chestplate": "Aeonite Chestplate",
+  "item.mc-reworked.aeonite_leggings": "Aeonite Leggings",
+  "item.mc-reworked.aeonite_boots": "Aeonite Boots",
+  "item.mc-reworked.aeonite_sword": "Aeonite Sword",
+  "item.mc-reworked.aeonite_axe": "Aeonite Axe",
+  "item.mc-reworked.aeonite_pickaxe": "Aeonite Pickaxe",
+  "item.mc-reworked.aeonite_shovel": "Aeonite Shovel",
+  "item.mc-reworked.aeonite_hoe": "Aeonite Hoe",
+  "item.mc-reworked.aeonite_block": "Aeonite Block",
+
+
+  "block.mc-reworked.aeonite_block": "Block of Aeonite",
+  "block.mc-reworked.eternal_remains": "Eternal Remains",
+
+  "gamerule.overworldGravity": "Gravity in the Overworld",
+  "gamerule.netherGravity": "Gravity in the Nether",
+  "gamerule.aeonGravity": "Gravity in Eternity"
+}

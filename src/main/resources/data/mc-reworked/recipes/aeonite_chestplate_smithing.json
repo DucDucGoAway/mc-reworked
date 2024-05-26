@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "mc-reworked:aeonite_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "result": {
+    "count": 1,
+    "id": "mc-reworked:aeonite_chestplate"
+  },
+  "template": {
+    "item": "mc-reworked:aeonite_upgrade_smithing_template"
+  }
+}

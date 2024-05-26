@@ -1,0 +1,2 @@
+Make Gravity in End Lower -> /attribute @s minecraft:generic.gravity base set 0.03
+Make Enderite give you lower gravity

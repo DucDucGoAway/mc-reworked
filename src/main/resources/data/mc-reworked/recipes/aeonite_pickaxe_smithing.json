@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "mc-reworked:aeonite_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "result": {
+    "count": 1,
+    "id": "mc-reworked:aeonite_pickaxe"
+  },
+  "template": {
+    "item": "mc-reworked:aeonite_upgrade_smithing_template"
+  }
+}

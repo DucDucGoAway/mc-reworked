@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "aeonite_ingot",
+  "ingredients": [
+    {
+      "item": "mc-reworked:aeonite_scrap"
+    },
+    {
+      "item": "mc-reworked:aeonite_scrap"
+    },
+    {
+      "item": "mc-reworked:aeonite_scrap"
+    },
+    {
+      "item": "mc-reworked:aeonite_scrap"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mc-reworked:aeonite_ingot"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "aeonite_ingot",
+  "ingredients": [
+    {
+      "item": "mc-reworked:aeonite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "mc-reworked:aeonite_ingot"
+  }
+}

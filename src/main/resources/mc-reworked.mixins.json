@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.duc.mcreworked.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"GameRuleMixin",
+		"AttributeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

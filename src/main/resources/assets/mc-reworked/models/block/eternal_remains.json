@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "mc-reworked:block/eternal_remains_top",
+    "side": "mc-reworked:block/eternal_remains_side"
+  }
+}

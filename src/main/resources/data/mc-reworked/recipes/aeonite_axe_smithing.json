@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "mc-reworked:aeonite_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "mc-reworked:aeonite_axe"
+  },
+  "template": {
+    "item": "mc-reworked:aeonite_upgrade_smithing_template"
+  }
+}
